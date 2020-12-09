@@ -1,6 +1,4 @@
 %Jorie Noll
-%CSC 2262
-%cs226264
 %Lab 11
 
 function u = heat2(f, u0, gbottom, gtop, gleft, gright, a, nx, ny, nt, Lx, Ly, T)
