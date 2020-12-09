@@ -1,5 +1,4 @@
 %Jorie Noll
-%CSC 2262
 %Lab 8c
 
 global accuracy;
