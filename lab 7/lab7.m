@@ -1,6 +1,4 @@
 %Jorie Noll
-%CSC 2262
-%cs226264
 %Lab 7
 
 m1 = .4;
