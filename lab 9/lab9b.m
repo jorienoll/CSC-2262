@@ -1,5 +1,4 @@
 %Jorie Noll
-%CSC 2262
 %Assignment 9b
 
 [xd, yd] = textread('Lab9a.dat'); %#ok<DTXTRD>
